@@ -3,8 +3,8 @@ Where me and my team started our code.
 
 
 Github Branch : JordanHunch (Only worked on by Jordan)
- Main.py was my original code to test generating a file and transfering it, didn't take a photo
- Camera.py was my final file that took a photo and transfered it over.
+ 	Main.py was my original code to test generating a file and transfering it, didn't take a photo
+ 	Camera.py was my final file that took a photo and transfered it over.
 
 Github Branch: JordanJustinHunch (Worked on by Jordan & Justin)
   ServoThingy folder:
