@@ -11,8 +11,9 @@ Where me and my team started our code.
    	 main.py was justins code, that I (Jordan) edited to make functional to show proof of concept, by being able to turn the servos
 	 
 	  Gyro Folder:
-		 main2.py was worked on both by me and Justin to create servos that turn depending on the gyro. When the gyro sensed a drop in vertical fast, 
-		  it enabled "crash mode" to then turn the servos depending on how the gyro was oriented depending to the starting set position that was initialized at the begining.
+		 main2.py was worked on both by me and Justin to create servos that turn depending on the gyro. When the gyro sensed a drop in 
+		 vertically fast, it enabled "crash mode" to then turn the servos depending on how the gyro was oriented depending to the
+		 starting set position that was initialized at the begining.
 
 
 All of this was worked on for Mr. Regini's PLTW : Intro to Engineering and Design working with Nasa Hunch on their Jumping Robot Project.
